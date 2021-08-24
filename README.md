@@ -1,2 +1,2 @@
-# Analytics Engineers Club
-Maxime's portfolio
+## Analytics Engineers Club
+Max's portfolio
